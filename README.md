@@ -166,11 +166,9 @@ The report also includes navigation between dashboard pages for easier explorati
 airline-price-analysis-powerbi/
 │
 ├── README.md
-├── Assignment.xlsx
-└── Airline_Price_Analysis.pbix
+├── Airlines_Dataset.xlsx
+└── Airlines.pbix
 ```
-
-*Update the PBIX filename above if your actual report uses a different name.*
 
 ## How to Explore
 
